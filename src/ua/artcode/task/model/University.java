@@ -12,8 +12,8 @@ import java.util.List;
  */
 public class University {
 
-    int counter = 0;
-    List<Student> listOfStudents = new ArrayList<Student>();
+   private int counter = 0;
+   private List<Student> listOfStudents = new ArrayList<Student>();
 
     public int getCounter() {
         return counter;
@@ -31,9 +31,13 @@ public class University {
     public void deleteStuddent(Student student) {
         if (listOfStudents.isEmpty()) {
             System.out.println("No students brother");
+
+        } else {
+            listOfStudents.remove(student);
+            counter--;
         }
-        listOfStudents.remove(student);
-        counter--;
     }
 
 }
+
+

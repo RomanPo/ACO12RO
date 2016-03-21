@@ -1,6 +1,6 @@
 package ua.artcode.task.test;
 
-import ua.artcode.task.model.Student;
+//import ua.artcode.task.model.Student;
 import ua.artcode.task.util.StudentUtils;
 
 import java.io.BufferedReader;
@@ -14,7 +14,7 @@ public class TestStudent {
         // allocate memory for student
         //Student student1 = new Student();
 
-        Student st2 = null;
+       // Student st2 = null;
 
         //student1.init("Sasha","kiev@gmail.com","Kiev", 4000.50);
 

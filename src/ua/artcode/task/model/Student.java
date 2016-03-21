@@ -19,7 +19,7 @@ public class Student {
        adress.city = city;
        this.paidMoney = paidMoney;
    }
-    private MyDate myDate = new MyDate(); //
+    private MyDate myDate = new MyDate(123,44,11); //
 
     private double paidMoney;
 

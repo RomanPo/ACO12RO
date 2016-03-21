@@ -33,6 +33,7 @@ public class TestUniversity {
         }
         System.out.println("Counter of students " + university.getCounter());
         System.out.println("Second choice");
+
         BufferedReader reader1 = new BufferedReader( new InputStreamReader(System.in));
         String line1 = reader1.readLine();
          if (line1.equals("2")){
