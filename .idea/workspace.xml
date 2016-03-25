@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a21f8f4c-1e52-479b-b51c-f1c5692fa725" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Homework/Array.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Homework/Fraction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Homework/Number.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Homework/TestArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Homework/TestFraction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/model/MyDate.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/model/MyDate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/model/Student.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/model/Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/test/TestStudent.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/test/TestStudent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/test/TestUniversity.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/test/TestUniversity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/model/University.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/model/University.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Homework/Calculator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Homework/Array.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Homework/Array.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Homework/TestArray.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Homework/TestArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ACO12.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458583577833" ignored="false" />
+    <file path="/Dummy.txt" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458926919270" ignored="false" />
     <file path="/Adress.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458410352649" ignored="false" />
     <file path="/Student.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458590470603" ignored="false" />
     <file path="/Date.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458398045414" ignored="false" />
@@ -27,8 +20,9 @@
     <file path="/Fraction.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458590944243" ignored="false" />
     <file path="/Number.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458585864432" ignored="false" />
     <file path="/TestFraction.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458590800435" ignored="false" />
-    <file path="/Array.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458592534614" ignored="false" />
-    <file path="/TestArray.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458592408876" ignored="false" />
+    <file path="/Array.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458929518667" ignored="false" />
+    <file path="/TestArray.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458927446705" ignored="false" />
+    <file path="/Calculator.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458928920933" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,15 +100,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ACO12.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ACO12.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="University.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/model/University.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,9 +113,7 @@
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/test/TestStudent.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="2" column="2" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -153,10 +136,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fraction.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Fraction.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Homework/Fraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="102" selection-start="117" selection-end="117" vertical-scroll-proportion="0.30538923">
+            <state line="6" column="102" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -171,10 +154,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Array.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Array.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Homework/Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="31" selection-start="1012" selection-end="1012" vertical-scroll-proportion="0.0">
+            <state line="9" column="61" selection-start="237" selection-end="237" vertical-scroll-proportion="0.2536023">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Homework/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="57" selection-start="950" selection-end="950" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -183,7 +175,7 @@
       <file leaf-file-name="TestArray.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Homework/TestArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="12" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
+            <state line="13" column="22" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -216,7 +208,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ua/artcode/Student.java" />
         <option value="$PROJECT_DIR$/src/Wekk1/Student.java" />
         <option value="$PROJECT_DIR$/src/Wekk1/Adress.java" />
         <option value="$PROJECT_DIR$/src/Wekk1/Date.java" />
@@ -231,6 +222,7 @@
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Homework/Fraction.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Homework/TestFraction.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Homework/TestArray.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Homework/Calculator.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Homework/Array.java" />
       </list>
     </option>
@@ -267,8 +259,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -351,7 +343,7 @@
       <recent name="C:\ACO12\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestArray">
+  <component name="RunManager" selected="Application.Calculator">
     <configuration default="false" name="TestFraction" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ua.artcode.task.Homework.TestFraction" />
       <option name="VM_PARAMETERS" />
@@ -388,6 +380,22 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="Calculator" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ua.artcode.task.Homework.Calculator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ACO12" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -400,19 +408,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -440,6 +435,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -498,15 +506,17 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.TestUniversity" />
       <item index="1" class="java.lang.String" itemvalue="Application.TestFraction" />
       <item index="2" class="java.lang.String" itemvalue="Application.TestArray" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Calculator" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestArray" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestFraction" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Calculator" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestArray" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestFraction" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -546,7 +556,11 @@
       <created>1458468826033</created>
       <updated>1458468826033</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test">
+      <created>1458592940327</created>
+      <updated>1458592940327</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -641,13 +655,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/model/Adress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="10" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ACO12.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
@@ -669,9 +676,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/model/Adress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="10" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="11" column="10" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/io/BufferedReader.java">
@@ -698,9 +703,7 @@
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/test/TestStudent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="2" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -720,7 +723,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/model/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="48" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0">
+        <state line="21" column="48" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Homework/Fraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="102" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -734,21 +742,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Homework/TestArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="12" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
+        <state line="13" column="22" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Homework/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="57" selection-start="950" selection-end="950" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Homework/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="31" selection-start="1012" selection-end="1012" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Homework/Fraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="102" selection-start="117" selection-end="117" vertical-scroll-proportion="0.30538923">
+        <state line="9" column="61" selection-start="237" selection-end="237" vertical-scroll-proportion="0.2536023">
           <folding />
         </state>
       </provider>

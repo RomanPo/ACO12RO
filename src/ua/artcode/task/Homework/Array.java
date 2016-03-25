@@ -43,4 +43,31 @@ public class Array {
             }
         }
     }
+
+    public void insertion() {
+        for (int i = 0; i < this.array.length; i++) {
+            array[i] = (int) (Math.random() * 10);
+
+        }
+    }
+
+    public void comparing(int[] array1) {
+        System.out.println(this.array.length > array1.length);
+    }
+
+    public void beatifullOutput() {
+        for (int i = 0; i < array.length; i++) {
+            System.out.print("{ " + array[i] + " }");
+        }
+    }
+
+    public Array increasingLength(int increase) {
+        Array array = new Array(new int[this.array.length + increase]);
+        for (int i = 0; i < this.array.length; i++) {
+            array.array[i] = this.array[i];
+        }
+        return array;
+    }
 }
+
+
