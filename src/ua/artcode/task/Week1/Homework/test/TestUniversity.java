@@ -1,7 +1,7 @@
-package ua.artcode.task.test;
+package ua.artcode.task.Week1.Homework.test;
 
-import ua.artcode.task.model.Student;
-import ua.artcode.task.model.University;
+import ua.artcode.task.Week1.Homework.model.Student;
+import ua.artcode.task.Week1.Homework.model.University;
 
 import java.io.BufferedReader;
 import java.io.IOException;

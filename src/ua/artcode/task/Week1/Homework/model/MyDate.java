@@ -1,4 +1,4 @@
-package ua.artcode.task.model;
+package ua.artcode.task.Week1.Homework.model;
 
 /**
  * Created by serhii on 19.03.16.

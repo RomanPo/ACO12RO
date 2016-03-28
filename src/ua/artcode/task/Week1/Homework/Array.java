@@ -1,4 +1,4 @@
-package ua.artcode.task.Homework;
+package ua.artcode.task.Week1.Homework;
 
 /**
  * Created with IntelliJ IDEA.

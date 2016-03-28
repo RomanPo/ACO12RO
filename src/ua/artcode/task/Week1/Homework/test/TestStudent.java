@@ -1,10 +1,5 @@
-package ua.artcode.task.test;
+package ua.artcode.task.Week1.Homework.test;
 
-//import ua.artcode.task.model.Student;
-import ua.artcode.task.util.StudentUtils;
-
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 
 public class TestStudent {
     // psvm
