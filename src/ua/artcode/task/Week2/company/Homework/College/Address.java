@@ -1,4 +1,4 @@
-package ua.artcode.task.Week2.company.Homework;
+package ua.artcode.task.Week2.company.Homework.College;
 
 /**
  * Created with IntelliJ IDEA.
