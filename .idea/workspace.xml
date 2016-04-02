@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a21f8f4c-1e52-479b-b51c-f1c5692fa725" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Reader.java" />
-      <change type="MOVED" beforePath="C:\ACO12\src\ua\artcode\task\Week2\company\Homework\Address.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Address.java" />
-      <change type="MOVED" beforePath="C:\ACO12\src\ua\artcode\task\Week2\company\Homework\Math.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Math.java" />
-      <change type="MOVED" beforePath="C:\ACO12\src\ua\artcode\task\Week2\company\Homework\Student.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Student.java" />
-      <change type="MOVED" beforePath="C:\ACO12\src\ua\artcode\task\Week2\company\Homework\Subject.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Subject.java" />
-      <change type="MOVED" beforePath="C:\ACO12\src\ua\artcode\task\Week2\company\Homework\TestStudent.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/TestStudent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/TestLibrary.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Book.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Book.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Reader.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Reader.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ACO12.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459273142280" ignored="false" />
+    <file path="/Dummy.txt" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459584548973" ignored="false" />
     <file path="/Adress.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458410352649" ignored="false" />
     <file path="/Student.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459192963341" ignored="false" />
     <file path="/Date.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458398045414" ignored="false" />
@@ -34,9 +30,10 @@
     <file path="/Address.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459187783875" ignored="false" />
     <file path="/Subject.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459189302432" ignored="false" />
     <file path="/Math.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459188525606" ignored="false" />
-    <file path="/Reader.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459276171594" ignored="false" />
-    <file path="/Library.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459278945677" ignored="false" />
-    <file path="/Book.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459279163394" ignored="false" />
+    <file path="/Reader.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459586252228" ignored="false" />
+    <file path="/Library.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459591959758" ignored="false" />
+    <file path="/Book.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459585137504" ignored="false" />
+    <file path="/TestLibrary.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459591679167" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +101,21 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/TestLibrary.java" line="26" class="ua.artcode.task.Week2.company.Homework.Library.TestLibrary" package="ua.artcode.task.Week2.company.Homework.Library">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
@@ -126,7 +138,7 @@
       <file leaf-file-name="TestStudent.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/TestStudent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0">
+            <state line="9" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -135,8 +147,24 @@
       <file leaf-file-name="Library.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="37" selection-start="208" selection-end="208" vertical-scroll-proportion="0.2509225">
-              <folding />
+            <state line="81" column="80" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.78104573">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2451#2457#0" expanded="true" />
+                <element signature="e#2834#2840#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestLibrary.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/TestLibrary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="0" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#593#599#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,7 +172,7 @@
       <file leaf-file-name="Book.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="49" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+            <state line="21" column="0" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -153,11 +181,17 @@
       <file leaf-file-name="Reader.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Reader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="12" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#342#348#0" expanded="true" />
-              </folding>
+            <state line="17" column="90" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="235" column="18" selection-start="10169" selection-end="10169" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -189,24 +223,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyString.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/MyString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="7" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestMyString.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/TestMyString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="10" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -225,7 +241,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Homework/String.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/test/TestStudent.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/util/StudentUtils.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Worker.java" />
@@ -238,9 +253,10 @@
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/TestStudent.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/TestMyString.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Student.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Reader.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Book.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Reader.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/TestLibrary.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java" />
       </list>
     </option>
   </component>
@@ -343,10 +359,6 @@
               <option name="myItemId" value="Homework" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="College" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -397,27 +409,7 @@
       <recent name="C:\ACO12\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestStudent">
-    <configuration default="false" name="TestFraction" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ua.artcode.task.Week1.Homework.TestFraction" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ACO12" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <ConfigurationWrapper RunnerId="Debug" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.TestLibrary">
     <configuration default="false" name="TestArray" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ua.artcode.task.Week1.Homework.TestArray" />
       <option name="VM_PARAMETERS" />
@@ -488,6 +480,28 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="TestLibrary" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ua.artcode.task.Week2.company.Homework.Library.TestLibrary" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ACO12" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -500,6 +514,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -527,19 +554,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -600,19 +614,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.TestUniversity" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestFraction" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Calculator" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestMyString" />
-      <item index="5" class="java.lang.String" itemvalue="Application.TestStudent" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestArray" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Calculator" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestMyString" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestStudent" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TestLibrary" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestStudent" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestMyString" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Calculator" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestArray" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestFraction" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestLibrary" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestStudent" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestMyString" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Calculator" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestArray" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -664,7 +678,11 @@
       <created>1459193124827</created>
       <updated>1459193124827</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test">
+      <created>1459279574778</created>
+      <updated>1459279574778</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -672,23 +690,23 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39863715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39863715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33049405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33049405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.66950595" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6013629" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33049405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -759,18 +777,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/TestArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="195" column="18" selection-start="6573" selection-end="6573" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="502" column="33" selection-start="19685" selection-end="19685" vertical-scroll-proportion="0.0" />
@@ -778,9 +784,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2424" column="51" selection-start="96237" selection-end="96237" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2424" column="51" selection-start="96237" selection-end="96237" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/Character.java">
@@ -802,27 +806,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="5" selection-start="706" selection-end="706" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="4" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/TestStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/TestMyString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="10" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0">
@@ -837,6 +820,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="235" column="18" selection-start="10169" selection-end="10169" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="5" selection-start="706" selection-end="706" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="66" column="0" selection-start="1632" selection-end="1632" vertical-scroll-proportion="0.0">
@@ -844,27 +841,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Reader.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="12" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#342#348#0" expanded="true" />
-          </folding>
+        <state line="10" column="4" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/TestStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="49" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+        <state line="21" column="0" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="90" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/TestLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#593#599#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="37" selection-start="208" selection-end="208" vertical-scroll-proportion="0.2509225">
-          <folding />
+        <state line="81" column="80" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.78104573">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2451#2457#0" expanded="true" />
+            <element signature="e#2834#2840#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

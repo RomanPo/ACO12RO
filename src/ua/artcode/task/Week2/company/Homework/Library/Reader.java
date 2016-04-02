@@ -11,10 +11,18 @@ import java.util.List;
  * To change this template use File | Settings | File Templates.
  */
 public class Reader {
-    String name;
-    List<Book> listOfBooks = new ArrayList<Book>();
-    int counter;
-    boolean isInBlackList;
+    private String name;
+    private List<Book> listOfBooks = new ArrayList<Book>();
+    private int counter;
+
+    public Reader(String name, List<Book> listOfBooks, int counter, boolean inBlackList) {
+        this.name = name;
+        this.listOfBooks = listOfBooks;
+        this.counter = counter;
+        isInBlackList = inBlackList;
+    }
+
+    private boolean isInBlackList;
 
     public boolean isInBlackList() {
         return isInBlackList;
@@ -46,5 +54,22 @@ public class Reader {
 
     public void setListOfBooks(List<Book> listOfBooks) {
         this.listOfBooks = listOfBooks;
+    }
+        public void getAllReadersBooks(){
+            for(Book book : this.getListOfBooks()){
+                book.toString();
+            }
+        }
+    public void borrowTheBook(String name, Library library) {
+        if (this.getCounter() < 3) {
+            for (int i = 0; i < library.getCountOfBooks() ; i++) {
+                if (library.getListOfBooks()[i].getName().equals(name)) {
+                    this.getListOfBooks().add(library.getListOfBooks()[i]);
+                }
+            }
+        } else {
+            System.out.println("Your limit is reached");
+        }
+
     }
 }
