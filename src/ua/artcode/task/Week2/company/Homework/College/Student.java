@@ -20,10 +20,10 @@ package ua.artcode.task.Week2.company.Homework.College;
  */
 public class Student {
 
-    String name;
-    Address address;
-    Subject[] listOfSubjects = new Subject[10];
-    int amountOfSubjects = 0;
+    private String name;
+    private Address address;
+    private Subject[] listOfSubjects = new Subject[10];
+    private int amountOfSubjects = 0;
 
     public Student(String name) {
         this.name = name;
@@ -33,7 +33,6 @@ public class Student {
         amountOfSubjects++;
         for (int i = 0; i < amountOfSubjects; i++) {
             this.listOfSubjects[i] = subject;
-
         }
     }
 
@@ -52,18 +51,15 @@ public class Student {
         for (int i = 0; i < listOfSubjects.length; i++) {
             listOfSubjects[i].toString();
         }
-
     }
 
     public int middleGrade(Subject[] listOfSubjects) {
-
         int a = 0;
         for (int i = 0; i < listOfSubjects.length; i++) {
             int result = 0;
             result += listOfSubjects[i].getGrade();
             a = result / listOfSubjects.length;
         }
-
         return a;
     }
 }

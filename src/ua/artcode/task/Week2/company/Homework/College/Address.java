@@ -9,9 +9,9 @@ package ua.artcode.task.Week2.company.Homework.College;
  */
 public class Address {
 
-    String numberOfHouse;
-    String streetName;
-    String city;
+   private String numberOfHouse;
+   private String streetName;
+   private String city;
 
     public String getNumberOfHouse() {
         return numberOfHouse;

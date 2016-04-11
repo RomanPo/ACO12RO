@@ -2,20 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a21f8f4c-1e52-479b-b51c-f1c5692fa725" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/TestLibrary.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Book.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Book.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Reader.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Reader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/Container.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/DoubleLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Address.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Address.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Student.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Subject.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Subject.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ACO12.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459584548973" ignored="false" />
+    <file path="/Dummy.txt" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460393945773" ignored="false" />
     <file path="/Adress.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458410352649" ignored="false" />
-    <file path="/Student.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459192963341" ignored="false" />
+    <file path="/Student.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459600489162" ignored="false" />
     <file path="/Date.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458398045414" ignored="false" />
     <file path="/TestStudent.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459192624328" ignored="false" />
-    <file path="/fragment.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459000385853" ignored="false" />
+    <file path="/fragment.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460394808495" ignored="false" />
     <file path="/University.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458479427021" ignored="false" />
     <file path="/TestUniversity.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458411182310" ignored="false" />
     <file path="/Fraction.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458590944243" ignored="false" />
@@ -27,13 +37,22 @@
     <file path="/String.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459005350999" ignored="false" />
     <file path="/MyString.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459084329288" ignored="false" />
     <file path="/TestMyString.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459007767488" ignored="false" />
-    <file path="/Address.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459187783875" ignored="false" />
-    <file path="/Subject.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459189302432" ignored="false" />
+    <file path="/Address.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459600522275" ignored="false" />
+    <file path="/Subject.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459600507778" ignored="false" />
     <file path="/Math.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459188525606" ignored="false" />
     <file path="/Reader.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459586252228" ignored="false" />
     <file path="/Library.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459591959758" ignored="false" />
     <file path="/Book.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459585137504" ignored="false" />
     <file path="/TestLibrary.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459591679167" ignored="false" />
+    <file path="/MyQueue.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460394380446" ignored="false" />
+    <file path="/MyLinkedStack.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460398443969" ignored="false" />
+    <file path="/MyIterator.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460394871197" ignored="false" />
+    <file path="/Container.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460394982427" ignored="false" />
+    <file path="/MyArrayStack.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460396267452" ignored="false" />
+    <file path="/MyLinkedQueue.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460398560309" ignored="false" />
+    <file path="/MyArrayQueue.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460399653679" ignored="false" />
+    <file path="/MyDoubleLinkedList.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460402762126" ignored="false" />
+    <file path="/DoubleLinkedList.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460402543858" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +67,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -85,23 +103,9 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/test/TestUniversity.java" line="28" class="ua.artcode.task.Week1.Homework.test.TestUniversity" package="ua.artcode.task.Week1.Homework.test">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/TestLibrary.java" line="26" class="ua.artcode.task.Week2.company.Homework.Library.TestLibrary" package="ua.artcode.task.Week2.company.Homework.Library">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -126,98 +130,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Student.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Student.java">
+      <file leaf-file-name="MyQueue.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="0" selection-start="1632" selection-end="1632" vertical-scroll-proportion="0.0">
+            <state line="15" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestStudent.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/TestStudent.java">
+      <file leaf-file-name="MyLinkedStack.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Library.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="80" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.78104573">
+            <state line="66" column="28" selection-start="1605" selection-end="1605" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2451#2457#0" expanded="true" />
-                <element signature="e#2834#2840#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestLibrary.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/TestLibrary.java">
+      <file leaf-file-name="MyArrayStack.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0">
+            <state line="65" column="30" selection-start="1512" selection-end="1512" vertical-scroll-proportion="0.56296295">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#593#599#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Book.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Book.java">
+      <file leaf-file-name="MyLinkedQueue.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
+            <state line="56" column="5" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyArrayQueue.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="17" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyDoubleLinkedList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="14" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reader.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Reader.java">
+      <file leaf-file-name="DoubleLinkedList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/DoubleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="90" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0">
+            <state line="15" column="4" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Object.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/Object.java">
+      <file leaf-file-name="MyStack.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="235" column="18" selection-start="10169" selection-end="10169" vertical-scroll-proportion="0.0">
+            <state line="10" column="21" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Subject.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Subject.java">
+      <file leaf-file-name="MyIterator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
+            <state line="12" column="29" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Math.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Math.java">
+      <file leaf-file-name="Container.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/Container.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="4" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Address.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Address.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="5" selection-start="706" selection-end="706" vertical-scroll-proportion="0.0">
+            <state line="13" column="0" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -241,22 +246,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/test/TestStudent.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/util/StudentUtils.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Worker.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/model/Worker.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/String.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/MyString.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Address.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Subject.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Math.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/TestStudent.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/TestMyString.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Student.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Book.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Reader.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/TestLibrary.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Student.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/datastructure/data_structure/Node.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/datastructure/Week4/Node.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/datastructure/wee4Homework/Node.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/MyArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyIterator.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/Container.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedStack.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedQueue.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/DoubleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java" />
       </list>
     </option>
   </component>
@@ -330,33 +335,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Homework" />
+              <option name="myItemId" value="d" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Library" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ACO12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ACO12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Homework" />
+              <option name="myItemId" value="static1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -378,7 +361,55 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Homework" />
+              <option name="myItemId" value="d" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dinamic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACO12" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACO12" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACO12" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACO12" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -389,6 +420,7 @@
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
@@ -402,11 +434,11 @@
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="ua.artcode.task.Week1.Homework" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\ACO12\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ua.artcode.task.Week1.Homework" />
     </key>
   </component>
   <component name="RunManager" selected="Application.TestLibrary">
@@ -516,19 +548,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -554,6 +573,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -682,7 +714,11 @@
       <created>1459279574778</created>
       <updated>1459279574778</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Test">
+      <created>1459591984996</created>
+      <updated>1459591984996</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -690,24 +726,24 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39863715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39863715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33049405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33049405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6013629" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33049405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -777,70 +813,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="502" column="33" selection-start="19685" selection-end="19685" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2424" column="51" selection-start="96237" selection-end="96237" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6146" column="22" selection-start="220014" selection-end="220014" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/TestFraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/MyString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="7" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/TestMyString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="10" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="235" column="18" selection-start="10169" selection-end="10169" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="5" selection-start="706" selection-end="706" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="0" selection-start="1632" selection-end="1632" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="4" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
@@ -848,16 +820,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/TestStudent.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
+        <state line="35" column="0" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -869,23 +834,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="5" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/TestLibrary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0">
+        <state line="15" column="17" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="16" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="29" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="21" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/DoubleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="4" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="28" selection-start="1605" selection-end="1605" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#593#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="80" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.78104573">
+        <state line="14" column="14" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="5" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2451#2457#0" expanded="true" />
-            <element signature="e#2834#2840#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="17" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="30" selection-start="1512" selection-end="1512" vertical-scroll-proportion="0.56296295">
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

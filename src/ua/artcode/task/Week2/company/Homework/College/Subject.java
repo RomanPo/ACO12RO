@@ -9,10 +9,10 @@ package ua.artcode.task.Week2.company.Homework.College;
  */
 public class Subject {
 
-    String nameOfSubject;
-    int amountOfHoursInSemester;
-    int amountOfAccomplishedHours;
-    int grade;
+   private String nameOfSubject;
+   private int amountOfHoursInSemester;
+   private int amountOfAccomplishedHours;
+   private int grade;
 
     public Subject(String nameOfSubject, int amountOfHoursInSemester) {
         this.nameOfSubject = nameOfSubject;
