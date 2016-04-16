@@ -4,6 +4,8 @@ import ua.artcode.task.Week4Homework.d.common.Container;
 import ua.artcode.task.Week4Homework.d.common.DoubleLinkedList;
 import ua.artcode.task.Week4Homework.d.common.MyIterator;
 
+import java.util.Iterator;
+
 /**
  * Created with IntelliJ IDEA.
  * User: Роман
@@ -72,9 +74,11 @@ public class MyDoubleLinkedList implements Container, Comparable {
     public int compareTo(Object o) {
 
      Node node = (Node) getIterator().next();
-        for (MyIterator iterator :  )
-        if(node.getNodeValue()< node.next.getNodeValue()){
-          node = node.next;
+        for (MyIterator iterator = getIterator(); iterator.hasNext();){
+            if(node.getNodeValue()< node.next.getNodeValue()){
+                node = node.next;
+        }
+
         }
     }
 
