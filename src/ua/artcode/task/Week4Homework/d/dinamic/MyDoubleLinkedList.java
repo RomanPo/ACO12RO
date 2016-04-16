@@ -13,7 +13,7 @@ import java.util.Iterator;
  * Time: 22:16
  * To change this template use File | Settings | File Templates.
  */
-public class MyDoubleLinkedList implements Container, Comparable {
+public class MyDoubleLinkedList implements Container {
 
     Node tail;
     Node head;
@@ -68,18 +68,6 @@ public class MyDoubleLinkedList implements Container, Comparable {
     @Override
     public MyIterator getIterator() {
         return new DoubleLinkedListIterator();
-    }
-
-    @Override
-    public int compareTo(Object o) {
-
-     Node node = (Node) getIterator().next();
-        for (MyIterator iterator = getIterator(); iterator.hasNext();){
-            if(node.getNodeValue()< node.next.getNodeValue()){
-                node = node.next;
-        }
-
-        }
     }
 
     private class DoubleLinkedListIterator implements MyIterator {

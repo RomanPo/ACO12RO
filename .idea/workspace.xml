@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a21f8f4c-1e52-479b-b51c-f1c5692fa725" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ACO12.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460807662171" ignored="false" />
+    <file path="/Dummy.txt" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460807719144" ignored="false" />
     <file path="/Adress.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458410352649" ignored="false" />
     <file path="/Student.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459600489162" ignored="false" />
     <file path="/Date.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458398045414" ignored="false" />
@@ -39,7 +41,7 @@
     <file path="/MyArrayQueue.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460399653679" ignored="false" />
     <file path="/MyDoubleLinkedList.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460801119165" ignored="false" />
     <file path="/DoubleLinkedList.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460402543858" ignored="false" />
-    <file path="/Node.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460797997222" ignored="false" />
+    <file path="/Node.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460818416697" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +140,7 @@
       <file leaf-file-name="MyLinkedQueue.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="37" selection-start="1203" selection-end="1286" vertical-scroll-proportion="0.0">
+            <state line="40" column="72" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -156,7 +158,7 @@
       <file leaf-file-name="MyDoubleLinkedList.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="64" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.4351852">
+            <state line="68" column="53" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.3962963">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -176,7 +178,7 @@
       <file leaf-file-name="Node.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="28" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
+            <state line="38" column="19" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -241,8 +243,8 @@
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayStack.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayQueue.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/DoubleLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java" />
       </list>
     </option>
   </component>
@@ -711,7 +713,11 @@
       <created>1460807671487</created>
       <updated>1460807671487</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Test">
+      <created>1460807722408</created>
+      <updated>1460807722408</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -891,21 +897,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="37" selection-start="1203" selection-end="1286" vertical-scroll-proportion="0.0">
+        <state line="40" column="72" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="28" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
+        <state line="38" column="19" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="64" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.4351852">
+        <state line="68" column="53" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.3962963">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -7,7 +7,7 @@ package ua.artcode.task.Week4Homework.d.dinamic;
  * Time: 20:04
  * To change this template use File | Settings | File Templates.
  */
-public class Node {
+public class Node implements Comparable {
     Object val;
     Node next;
     Node prev;
@@ -21,12 +21,23 @@ public class Node {
         this.next = next;
     }
 
+    public Node(Object val, Node next, Node prev) {
+        this.val = val;
+        this.next = next;
+        this.prev = prev;
+    }
+
     public Object getVal() {
         return val;
     }
 
     public void setVal(Object val) {
         this.val = val;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        return this.getNodeValue()>;
     }
 
     public Node getNext() {
@@ -53,11 +64,9 @@ public class Node {
         this.nodeValue = nodeValue;
     }
 
-    public Node(Object val, Node next, Node prev) {
-        this.val = val;
-        this.next = next;
-        this.prev = prev;
+
+    @Override
+    public int compareTo(Object o) {
+        return 1;  //To change body of implemented methods use File | Settings | File Templates.
     }
-
-
 }
