@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a21f8f4c-1e52-479b-b51c-f1c5692fa725" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/Container.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/DoubleLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Address.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Address.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Student.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Subject.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Subject.java" />
+    <list default="true" id="a21f8f4c-1e52-479b-b51c-f1c5692fa725" name="Default" comment="Test">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java" afterPath="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ACO12.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460393945773" ignored="false" />
+    <file path="/Dummy.txt" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460798840539" ignored="false" />
     <file path="/Adress.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458410352649" ignored="false" />
     <file path="/Student.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459600489162" ignored="false" />
     <file path="/Date.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458398045414" ignored="false" />
@@ -51,8 +39,9 @@
     <file path="/MyArrayStack.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460396267452" ignored="false" />
     <file path="/MyLinkedQueue.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460398560309" ignored="false" />
     <file path="/MyArrayQueue.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460399653679" ignored="false" />
-    <file path="/MyDoubleLinkedList.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460402762126" ignored="false" />
+    <file path="/MyDoubleLinkedList.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460798938864" ignored="false" />
     <file path="/DoubleLinkedList.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460402543858" ignored="false" />
+    <file path="/Node.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1460797997222" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +56,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -103,7 +93,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/ua/artcode/task/Week1/Homework/test/TestUniversity.java" line="28" class="ua.artcode.task.Week1.Homework.test.TestUniversity" package="ua.artcode.task.Week1.Homework.test">
         <option name="ENABLED" value="true" />
@@ -130,30 +119,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyQueue.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyQueue.java">
+      <file leaf-file-name="MyLinkedStack.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
+            <state line="66" column="28" selection-start="1605" selection-end="1605" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyLinkedStack.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="28" selection-start="1605" selection-end="1605" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyArrayStack.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MyArrayStack.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="30" selection-start="1512" selection-end="1512" vertical-scroll-proportion="0.56296295">
+            <state line="65" column="30" selection-start="1512" selection-end="1512" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,10 +142,8 @@
       <file leaf-file-name="MyLinkedQueue.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="5" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="49" column="37" selection-start="1203" selection-end="1286" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -176,6 +152,15 @@
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayQueue.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="44" column="17" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyDoubleLinkedList.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="67" column="62" selection-start="1573" selection-end="1573" vertical-scroll-proportion="0.34444445">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -183,10 +168,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyDoubleLinkedList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java">
+      <file leaf-file-name="Object.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/Object.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="14" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+            <state line="148" column="19" selection-start="5841" selection-end="5841" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="28" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -196,15 +190,6 @@
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/DoubleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="15" column="4" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyStack.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="21" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -222,7 +207,7 @@
       <file leaf-file-name="Container.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/Container.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+            <state line="9" column="17" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -251,7 +236,6 @@
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/datastructure/Week4/Node.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/datastructure/wee4Homework/Node.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/MyArrayStack.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyIterator.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/Container.java" />
@@ -261,6 +245,7 @@
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayStack.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayQueue.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/DoubleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java" />
       </list>
     </option>
@@ -297,7 +282,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -415,6 +399,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -548,6 +533,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -573,19 +571,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -718,7 +703,11 @@
       <created>1459591984996</created>
       <updated>1459591984996</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Test">
+      <created>1460402865943</created>
+      <updated>1460402865943</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -813,60 +802,24 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="4" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/College/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="35" column="0" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="90" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="17" column="90" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/Library.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="5" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="81" column="5" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week2/company/Homework/Library/TestLibrary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="17" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="16" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="29" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="15" column="17" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyStack.java">
@@ -893,40 +846,64 @@
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="66" column="28" selection-start="1605" selection-end="1605" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="14" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="5" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="17" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="30" selection-start="1512" selection-end="1512" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/static1/MyArrayStack.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/Container.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="30" selection-start="1512" selection-end="1512" vertical-scroll-proportion="0.56296295">
+        <state line="9" column="17" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="29" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="148" column="19" selection-start="5841" selection-end="5841" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyLinkedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="37" selection-start="1203" selection-end="1286" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="28" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/MyDoubleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="62" selection-start="1573" selection-end="1573" vertical-scroll-proportion="0.34444445">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,6 +1,8 @@
 package ua.artcode.task.Week4Homework.d.dinamic;
 
+import ua.artcode.task.Week4Homework.d.common.Container;
 import ua.artcode.task.Week4Homework.d.common.DoubleLinkedList;
+import ua.artcode.task.Week4Homework.d.common.MyIterator;
 
 /**
  * Created with IntelliJ IDEA.
@@ -9,28 +11,90 @@ import ua.artcode.task.Week4Homework.d.common.DoubleLinkedList;
  * Time: 22:16
  * To change this template use File | Settings | File Templates.
  */
-public class MyDoubleLinkedList implements DoubleLinkedList {
+public class MyDoubleLinkedList implements Container, Comparable {
 
     Node tail;
     Node head;
 
-    @Override
-    public void addToTail(Object ob) {
-        //To change body of implemented methods use File | Settings | File Templates.
+    public void addToTail(Object obj) {
+
+        if (tail == null) {
+            tail = new Node(obj, null);
+        }
+        tail = new Node(obj, null, tail.prev);
+    }
+
+    public void addToHead(Object obj) {
+
+        if (head == null) {
+            head = new Node(obj, null, null);
+        }
+        head = new Node(obj, head, null);
+    }
+
+    public Object popFromTail() {
+
+        if (tail == null) {
+            System.out.println("List is Empty");
+        }
+        Object object = tail.val;
+        tail.prev = tail;
+        return object;
+    }
+
+    public Object popFromHead() {
+
+        if (head == null) {
+            System.out.println();
+        }
+        Object object = head.val;
+        head = head.next;
+        return object;
+    }
+
+    public Object searchByValue(Object obj) {
+
+        if (head == null) {
+            System.out.println("List is empty");
+        }
+        while (!head.equals(obj)) {
+            head = head.next;
+        }
+        return head;
     }
 
     @Override
-    public void addTohead(Object ob) {
-        //To change body of implemented methods use File | Settings | File Templates.
+    public MyIterator getIterator() {
+        return new DoubleLinkedListIterator();
     }
 
     @Override
-    public Object dequeFromTail() {
-        return null;  //To change body of implemented methods use File | Settings | File Templates.
+    public int compareTo(Object o) {
+
+     Node node = (Node) getIterator().next();
+        for (MyIterator iterator :  )
+        if(node.getNodeValue()< node.next.getNodeValue()){
+          node = node.next;
+        }
     }
 
-    @Override
-    public Object dequeFromHead() {
-        return null;  //To change body of implemented methods use File | Settings | File Templates.
+    private class DoubleLinkedListIterator implements MyIterator {
+
+        Node node;
+
+        public DoubleLinkedListIterator(){
+
+        }
+        @Override
+        public boolean hasNext() {
+            return node.next != null;
+        }
+
+        @Override
+        public Object next() {
+            if (!hasNext()) {
+                return node;
+            } else return node.next;
+        }
     }
 }
