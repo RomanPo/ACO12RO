@@ -17,12 +17,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/dao/UserDaoInnerDbImpl.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/service/UserService.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/service/UserServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ACO12.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1461412556002" ignored="false" />
+    <file path="/Dummy.txt" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1461420607702" ignored="false" />
     <file path="/Adress.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458410352649" ignored="false" />
     <file path="/Student.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1459600489162" ignored="false" />
     <file path="/Date.java" changelist="a21f8f4c-1e52-479b-b51c-f1c5692fa725" time="1458398045414" ignored="false" />
@@ -144,10 +143,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppDB.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AppDB.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/dao/AppDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="79" selection-start="506" selection-end="506" vertical-scroll-proportion="0.3">
+            <state line="24" column="32" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -180,10 +179,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Car.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/model/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="8" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
+            <state line="6" column="45" selection-start="114" selection-end="114" vertical-scroll-proportion="0.28323698">
               <folding />
             </state>
           </provider>
@@ -201,7 +200,7 @@
       <file leaf-file-name="Order.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/model/Order.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="3" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -243,7 +242,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyStack.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/MyArrayStack.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/MyIterator.java" />
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/common/Container.java" />
@@ -257,8 +255,9 @@
         <option value="$PROJECT_DIR$/src/ua/artcode/task/Week4Homework/d/dinamic/Node.java" />
         <option value="$PROJECT_DIR$/TaxiApp/TaxiApp.iml" />
         <option value="$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/model/Driver.java" />
-        <option value="$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/model/Order.java" />
         <option value="$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/model/Car.java" />
+        <option value="$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/dao/AppDB.java" />
+        <option value="$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/model/Order.java" />
       </list>
     </option>
   </component>
@@ -836,16 +835,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33049405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33049405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6013629" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.66950595" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33049405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1007,23 +1006,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/model/Car.java">
+    <entry file="file://$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/dao/AppDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="8" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
+        <state line="24" column="32" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/model/Order.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="3" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/dao/AppDB.java">
+    <entry file="file://$PROJECT_DIR$/TaxiApp/TaxiApp/src/ua/artcode/taxi/model/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="79" selection-start="506" selection-end="506" vertical-scroll-proportion="0.3">
+        <state line="6" column="45" selection-start="114" selection-end="114" vertical-scroll-proportion="0.28323698">
           <folding />
         </state>
       </provider>
